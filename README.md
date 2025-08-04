@@ -59,11 +59,11 @@ H --> I[Prediction on New Data]
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](correlation_heatmap.png)
+<img width="1606" height="1123" alt="image" src="https://github.com/user-attachments/assets/966bd214-b269-4027-9adc-8cce2983f423" />
 
 ### Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+<img width="1540" height="1419" alt="confusion_matrix" src="https://github.com/user-attachments/assets/816180f7-5ef6-469f-a1c9-85e03952bf5f" />
 
 ---
 
@@ -100,13 +100,6 @@ jupyter notebook Breast_Cancer_Classification.ipynb
 * Deployment as a Flask/Streamlit web app
 * Integrate SHAP/LIME for explainability
 
----
-Diagram 
-Correlation Heatmap
-<img width="1606" height="1123" alt="image" src="https://github.com/user-attachments/assets/966bd214-b269-4027-9adc-8cce2983f423" />
-
-Confusion Matrix (Model Evaluation)
-<img width="1540" height="1419" alt="confusion_matrix" src="https://github.com/user-attachments/assets/816180f7-5ef6-469f-a1c9-85e03952bf5f" />
 
 ---
 
